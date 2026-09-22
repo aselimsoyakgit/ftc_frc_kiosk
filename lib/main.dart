@@ -49,7 +49,7 @@ class _KioskHomeScreenState extends State<KioskHomeScreen> {
     KioskItem(type: ContentType.image, value: 'assets/slides/slide3.png'),
     KioskItem(type: ContentType.webUrl, value: 'https://asteria32334.github.io/quick-manual/'),
     KioskItem(type: ContentType.image, value: 'assets/slides/slide4.png'),
-    KioskItem(type: ContentType.webUrl, value: 'https://github.com/asteria32334/scouting.app.public.git'),
+    
     KioskItem(type: ContentType.image, value: 'assets/slides/slide5.png'),
     KioskItem(type: ContentType.webUrl, value: 'https://asteria32334.github.io/asteria.web.general/files/FTC%20101%20EN.pdf'),
     KioskItem(type: ContentType.image, value: 'assets/slides/slide6.png'),
@@ -63,7 +63,7 @@ class _KioskHomeScreenState extends State<KioskHomeScreen> {
     KioskItem(type: ContentType.image, value: 'assets/slides/slide10.png'),
     KioskItem(type: ContentType.webUrl, value: 'https://firstinspires.org'),
     KioskItem(type: ContentType.image, value: 'assets/slides/slide11.png'),
-    KioskItem(type: ContentType.webUrl, value: 'https://github.com/asteria32334/scouting.app.public.git'),
+    
     KioskItem(type: ContentType.image, value: 'assets/slides/slide12.png'),
   ];
 
